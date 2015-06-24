@@ -1,0 +1,26 @@
+{
+  "name": "SuicideBot",
+  "version": "0.0.1",
+  "description": "IRC bot that kills itself completely when asked to suicide.",
+  "main": "suicidebot.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pederjohnsen/suicidebot"
+  },
+  "keywords": [
+    "suicidebot",
+    "irc",
+    "ircbot",
+    "bot"
+  ],
+  "author": "Peder Johnsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pederjohnsen/suicidebot/issues"
+  },
+  "homepage": "https://github.com/pederjohnsen/suicidebot",
+  "dependencies": {
+    "irc": "^0.3.12",
+    "rimraf": "^2.4.0"
+  }
+}
