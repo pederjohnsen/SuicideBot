@@ -57,4 +57,4 @@ suicidebot.addListener 'message', (from, to, message) ->
                     suicidebot.action to, "#{suicideTypes[_.random(suicideTypes.length-1)]}"
                     suicidebot.disconnect 'dead'
         else
-            suicidebot.say to, "#{from}, I just wants to die :("
+            suicidebot.say to, "#{from}, I just want to die :("
