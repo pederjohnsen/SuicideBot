@@ -21,6 +21,7 @@
   "homepage": "https://github.com/pederjohnsen/suicidebot",
   "dependencies": {
     "irc": "^0.3.12",
-    "rimraf": "^2.4.0"
+    "rimraf": "^2.4.0",
+    "underscore": "^1.8.3"
   }
 }
